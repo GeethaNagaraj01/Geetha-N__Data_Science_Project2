@@ -36,6 +36,23 @@ Smart-Blog-Intelligence-System/
 ├── README.md                   # Project documentation
 └── assets/                     # Screenshots or images (optional)
 
+Dataset Information
+
+This project uses a publicly available dataset from Kaggle for training and evaluation.
+Due to GitHub’s file size restrictions (max 25 MB per file), the dataset is not uploaded directly to this repository.
+
+You can download the dataset from the official Kaggle source using the link below:
+
+🔗 Kaggle Dataset Download:
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
+After downloading, extract the contents and place the dataset inside the following directory:
+
+/data/raw/
+
+
+The project will automatically load the dataset from this folder.
+
+
 Installation
 
 Clone the repository:
