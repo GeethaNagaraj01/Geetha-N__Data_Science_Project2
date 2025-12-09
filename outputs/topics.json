@@ -1,0 +1,206 @@
+[
+    {
+        "topic_id": 0,
+        "keywords": [
+            "com",
+            "article",
+            "writes",
+            "car",
+            "netcom",
+            "hp",
+            "organization",
+            "subject",
+            "lines",
+            "sun",
+            "ibm",
+            "posting"
+        ]
+    },
+    {
+        "topic_id": 1,
+        "keywords": [
+            "god",
+            "jesus",
+            "people",
+            "bible",
+            "christian",
+            "believe",
+            "christians",
+            "faith",
+            "christ",
+            "think",
+            "say",
+            "don"
+        ]
+    },
+    {
+        "topic_id": 2,
+        "keywords": [
+            "edu",
+            "university",
+            "host",
+            "nntp",
+            "posting",
+            "organization",
+            "subject",
+            "lines",
+            "state",
+            "cs",
+            "cc",
+            "article"
+        ]
+    },
+    {
+        "topic_id": 3,
+        "keywords": [
+            "windows",
+            "dos",
+            "window",
+            "file",
+            "files",
+            "program",
+            "ms",
+            "use",
+            "graphics",
+            "using",
+            "help",
+            "problem"
+        ]
+    },
+    {
+        "topic_id": 4,
+        "keywords": [
+            "geb",
+            "pitt",
+            "gordon",
+            "banks",
+            "cs",
+            "cadre",
+            "dsl",
+            "chastity",
+            "shameful",
+            "skepticism",
+            "intellect",
+            "surrender"
+        ]
+    },
+    {
+        "topic_id": 5,
+        "keywords": [
+            "key",
+            "clipper",
+            "chip",
+            "encryption",
+            "keys",
+            "escrow",
+            "government",
+            "algorithm",
+            "security",
+            "crypto",
+            "nsa",
+            "secure"
+        ]
+    },
+    {
+        "topic_id": 6,
+        "keywords": [
+            "drive",
+            "scsi",
+            "mb",
+            "ide",
+            "card",
+            "controller",
+            "disk",
+            "drives",
+            "hard",
+            "bus",
+            "mac",
+            "mhz"
+        ]
+    },
+    {
+        "topic_id": 7,
+        "keywords": [
+            "team",
+            "game",
+            "ca",
+            "year",
+            "players",
+            "hockey",
+            "games",
+            "play",
+            "season",
+            "nhl",
+            "baseball",
+            "win"
+        ]
+    },
+    {
+        "topic_id": 8,
+        "keywords": [
+            "armenian",
+            "turkish",
+            "armenians",
+            "armenia",
+            "argic",
+            "serdar",
+            "turks",
+            "turkey",
+            "genocide",
+            "people",
+            "zuma",
+            "soviet"
+        ]
+    },
+    {
+        "topic_id": 9,
+        "keywords": [
+            "nasa",
+            "space",
+            "gov",
+            "larc",
+            "jpl",
+            "henry",
+            "moon",
+            "center",
+            "research",
+            "alaska",
+            "orbit",
+            "shuttle"
+        ]
+    },
+    {
+        "topic_id": 10,
+        "keywords": [
+            "uk",
+            "ac",
+            "pl",
+            "newsreader",
+            "tin",
+            "version",
+            "university",
+            "dcs",
+            "subject",
+            "lines",
+            "wrote",
+            "organization"
+        ]
+    },
+    {
+        "topic_id": 11,
+        "keywords": [
+            "israel",
+            "israeli",
+            "jews",
+            "arab",
+            "arabs",
+            "jewish",
+            "people",
+            "lebanese",
+            "peace",
+            "israelis",
+            "bony",
+            "jake"
+        ]
+    }
+]
